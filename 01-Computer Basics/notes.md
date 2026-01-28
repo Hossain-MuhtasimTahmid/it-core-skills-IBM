@@ -19,4 +19,16 @@
 * The HDD is where applications and files are stored, along with the operating system.
 <img width="836" height="382" alt="quiz2combasics" src="https://github.com/user-attachments/assets/f4be5874-6b5c-4d19-97de-f072604b606e" />
 
+# Cloud Computing
+* Cloud computing in simple terms is a large collection of computers working together using the internet to communicate.
+  *QUIZ 3-->
+   * Scalability is handling the change in demand for power and storage. Without scalability the number and frequency of requests from fans who want to buy tickets might cause the ticket website to crash.
+   * East is using local computing and West is using cloud computing. East has a room with several computers performing the same jobs as the single computer that West is using. West can connect to the cloud from one computer. East is connecting several computers only in a local network.
+   * Each cloud computer handles its own workload.
+   * Scientists discovered that they might use more power when needed and save on power costs by distributing jobs across computer hardware.
+   * Cloud computing basically means that a large collection of computers are working together using the internet to communicate.
+<img width="838" height="383" alt="quiz3combasics" src="https://github.com/user-attachments/assets/e7df983a-07ce-4d0d-bffa-1fd93ef6ebff" />
 
+
+
+   
