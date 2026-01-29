@@ -25,3 +25,16 @@
   * When you send a message from your home, data travels to your router, which routes the message to the internet and then to the routers of the people in your group.
   * On a private network like a home, business, or school network, the router assigns all the devices on that network an individual IP address that is associated with the device’s MAC address.
 <img width="855" height="378" alt="networkingquiz1" src="https://github.com/user-attachments/assets/e052df12-3998-4a89-974c-a0c3dd21cb83" />
+
+* PANs- Personal Area Network, from the name itself I can undersatnd that it has to be used on a personal level, the devices need to be in the same place.
+* LANs- Local Area Network, mainly used by corporations or at home or at shops or cafes' to have private network connection, so no random person can access without permission.
+* WANs- Wide Area Network, the internet is called the open WAN because it covers the world and devices don't need permission to access it, but some networks which require security credentials are called closed networks.
+* VPNs- Virtual Private Networks, it works like a tunnel from one LAN to another so sometines people working remotely can use vpn to access to private LANs of their company or schools.
+* QUIZ 2-->
+  * A local area network (LAN) the secure way to let some people in and keep others out.
+  * A personal area network (PAN) is ideal for transferring a single image to a nearby device.
+  * Routers transmit traffic from one side of a network or device to the other side of the network or device.
+<img width="837" height="382" alt="quiz2networkbasics" src="https://github.com/user-attachments/assets/c75ce934-3f8c-45a5-ad89-e095629cdfa7" />
+
+
+
