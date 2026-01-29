@@ -49,4 +49,5 @@
 # Last Quiz Overall
 <img width="847" height="382" alt="quiz6combasics" src="https://github.com/user-attachments/assets/753a5ef2-b3d3-4f23-b516-104ff6ea57e9" />
 
-   
+<img width="1024" height="1024" alt="Gemini_Generated_Image_yjc4uiyjc4uiyjc4" src="https://github.com/user-attachments/assets/2df9e768-09ac-4e1d-bb72-1717f75277c1" />
+
