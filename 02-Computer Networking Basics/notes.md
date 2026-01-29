@@ -36,5 +36,18 @@
   * Routers transmit traffic from one side of a network or device to the other side of the network or device.
 <img width="837" height="382" alt="quiz2networkbasics" src="https://github.com/user-attachments/assets/c75ce934-3f8c-45a5-ad89-e095629cdfa7" />
 
+* Domain Name System (DNS)-> DNS allows us to access websites using easy-to-remember names instead of numeric IP addresses.
+* Transmission Control Protocol (TCP)-> TCP/IP handles data
+  * Data is broken up into packets and sent over the internet in chunks and reassembled at the destination. The technology that enables this type of transmission is called TCP/IP.
+  * Protocol: A protocol is a set of rules or a procedure for how something is be done.
+ * Metadata ->is essential for ensuring that all the data arrives at the proper destination and that the receiving end knows what to do with it.
+* In IP addresses-> In 192.168.1.10, 192.168.1 is the network part and 10 is the device (host) part.
+<img width="790" height="384" alt="dns" src="https://github.com/user-attachments/assets/878b156f-a4a2-479e-9499-91892642d5b9" />
+<img width="535" height="296" alt="domaintypes" src="https://github.com/user-attachments/assets/11333241-d584-417e-af7a-933c94edb4e6" />
 
-
+* QUIZ 3-->
+  * The TCP/IP protocols define how data on a network should be broken up, how it should be transmitted from network to network, and the structure of packets.
+  * The DNS is like a big address book that matches domain names with IP addresses.
+  * Domains are groupings of networks, and in www.ibm.com the IBM name is considered a subdomain of com.
+  * The protocols that TCP/IP uses to enable reliable data transfer by defining how data on a network is broken up, how it is transmitted, and how it is structured.
+<img width="854" height="381" alt="networkingquiz3" src="https://github.com/user-attachments/assets/6b578e66-bbbb-49e6-9f6f-615eae048d19" />
