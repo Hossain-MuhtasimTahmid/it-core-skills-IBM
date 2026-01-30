@@ -51,3 +51,4 @@
   * Domains are groupings of networks, and in www.ibm.com the IBM name is considered a subdomain of com.
   * The protocols that TCP/IP uses to enable reliable data transfer by defining how data on a network is broken up, how it is transmitted, and how it is structured.
 <img width="854" height="381" alt="networkingquiz3" src="https://github.com/user-attachments/assets/6b578e66-bbbb-49e6-9f6f-615eae048d19" />
+
