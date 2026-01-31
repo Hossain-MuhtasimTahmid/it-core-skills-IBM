@@ -52,3 +52,16 @@
   * The protocols that TCP/IP uses to enable reliable data transfer by defining how data on a network is broken up, how it is transmitted, and how it is structured.
 <img width="854" height="381" alt="networkingquiz3" src="https://github.com/user-attachments/assets/6b578e66-bbbb-49e6-9f6f-615eae048d19" />
 
+* Firmware-> Operating system of routers and modems.
+* Password manager. A password manager is a software program for managing, creating, storing, and updating your passwords. A password manager helps you to log in to websites securely.
+* Threat actor. A threat actor is someone like a cybercriminal or an organization that is responsible for a threat or malicious impact on the security of an organization or an individual system user.
+* Phishing attacks. These types of emails try to make you select a link, call a number, or download a file in order to extract personal information.
+* Heuristics: You hover over or select the sender’s name to reveal the actual sender’s email address.
+  * For example, if you get an email that appears to be from IBM Support, you can hover over the sender’s address. If it shows a personal email address or a non-IBM address, you will be able to tell the email is not actually from IBM support and assume it is a scam.
+* QUIZ 4-->
+  * Two-factor authentication requires that people enter a code, pick an answer from a list, respond to a phone call, or answer a question in order to confirm their identity.
+  * Keeping firmware up to date can help plug security holes and help the hardware to perform better to prevent certain types of attacks.
+<img width="847" height="381" alt="networkingquiz4" src="https://github.com/user-attachments/assets/3faadbdf-70b0-4ad6-9e93-a845e19f3e75" />
+
+
+
