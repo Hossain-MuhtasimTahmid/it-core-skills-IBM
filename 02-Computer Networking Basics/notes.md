@@ -63,5 +63,35 @@
   * Keeping firmware up to date can help plug security holes and help the hardware to perform better to prevent certain types of attacks.
 <img width="847" height="381" alt="networkingquiz4" src="https://github.com/user-attachments/assets/3faadbdf-70b0-4ad6-9e93-a845e19f3e75" />
 
+* All hardware has a special identification (ID) called a media access control (MAC) address.
+* Type CMD in your searchbar and type "ipconfig/all" to find the physical address which is the MAC address of the device.
+* Routers use subnets. ->Subnet. A subnet is an address for a network within a network. The subnet helps your router to sort and send information to its destination.
+<img width="401" height="337" alt="howRouterWorks" src="https://github.com/user-attachments/assets/277bbfce-0912-4595-afc1-2ef5649a61ae" />
+
+* Data is sent from the internet to your router, which is assigned a unique IP address.
+ * Your router creates a subnet for your home network.
+ * Your subnet ID is 192.168.1.
+ * Each device within your subnet gets an IP address, also called the host ID, based off of your subnet ID.
+ * The last number in the IP address is how the subnet identifies each device.
+ * The IP address for your specific device is 192.168.1.10.
+*QUIZ 5-->
+<img width="852" height="381" alt="networkingquiz5" src="https://github.com/user-attachments/assets/9e140d86-2332-4056-ad2a-eaf450c51468" />
+
+* QUIZ 6-->
+  * An operating system is a type of system software that manages how the software installed on the device works with the device hardware.
+  * A stateless application may be run entirely online in your browser.
+  * A stateful application, like an operating system, contains all the information needed to make the application work in the memory of the device.
+  * The web browser application is stateless because it processes the information as the information is received and renders the information as the information arrives.
+<img width="842" height="381" alt="networkingquiz6" src="https://github.com/user-attachments/assets/dc0d0055-9220-4f3a-8160-9eed1d9a1e37" />
+
+# Important summary
+* Compression technology uses tokens to help networks transfer large amounts of data.
+* Personal area networks (PANs) and local area networks (LANs) are private, while wide area networks (WANs) can be private or open.
+* Media access control (MAC) addresses are unique and permanent.
+* Devices can share internet protocol (IP) addresses.
+* Domain name system (DNS) technology is like a big address book for IP addresses.
+* Using a password manager and enabling two-factor authentication (2FA) are two ways to help protect you from security breaches.
+<img width="839" height="379" alt="networkingfinalquiz" src="https://github.com/user-attachments/assets/ee8a815a-5f15-4fd3-b785-a309a1ef0209" />
+
 
 
